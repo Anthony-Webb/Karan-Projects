@@ -94,203 +94,203 @@ while True:
         print ((price * 0.06) + price)
         running = False
 
-    if state=='KS':
+    if state=='KS' or state=='ks' or state=='Kansas' or state=='kansas':
         print ('Setting state to Kansas')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.065) + price)
         running = False
 
-    if state=='KY':
+    if state=='KY' or state=='ky' or state=='Kentucky' or state=='kentucky':
         print ('Setting state to Kentucky')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='LA':
+    if state=='LA' or state=='la' or state=='Louisiana' or state=='louisiana':
         print ('Setting state to Louisiana')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0445) + price)
         running = False
 
-    if state=='ME':
+    if state=='ME' or state=='me' or state=='Maine' or state=='Maine':
         print ('Setting state to Maine')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.055) + price)
         running = False
 
-    if state=='MD':
+    if state=='MD' or state=='md' or state=='Maryland' or state=='maryland':
         print ('Setting state to Maryland')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='MA':
+    if state=='MA' or state=='ma' or state=='Massachusetts' or state=='massachusetts' or state=='Mass' or state=='mass':
         print ('Setting state to Massachusetts')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0625) + price)
         running = False
 
-    if state=='MI':
+    if state=='MI' or state=='mi' or state=='Michigan' or state=='michigan':
         print ('Setting state to Michigan')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='MN':
+    if state=='MN' or state=='mn' or state=='Minnesota' or state=='minnesota':
         print ('Setting state to Minnesota')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06875) + price)
         running = False
 
-    if state=='MS':
+    if state=='MS' or state=='ms' or state=='Mississippi' or state=='mississippi':
         print ('Setting state to Mississippi')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.07) + price)
         running = False
 
-    if state=='MO':
+    if state=='MO' or state=='mo' or state=='Missouri' or state=='missouri':
         print ('Setting state to Missouri')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.04255) + price)
         running = False
 
-    if state=='MT':
+    if state=='MT' or state=='mt' or state=='Montana' or state=='montana':
         print ('The state of Montana does not have sales tax')
 
-    if state=='NE':
+    if state=='NE' or state=='ne' or state=='Nebraska' or state=='nebraska':
         print ('Setting state to Nebraska')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.055) + price)
         running = False
 
-    if state=='NV':
+    if state=='NV' or state=='nv' or state=='Nevada' or state=='nevada':
         print ('Setting state to Nevada')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0685) + price)
         running = False
 
-    if state=='NH':
+    if state=='NH' or state=='nh' or state=='New Hampshire' or state=='new hampshire':
         print ('The state of New Hampshire does not have sales tax')
 
-    if state=='NJ':
+    if state=='NJ' or state=='nj' or state=='New Jersey' or state=='new jersey':
         print ('Setting state to New Jersey')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06625) + price)
         running = False
 
-    if state=='NM':
+    if state=='NM' or state=='nm' or state=='New Mexico' or state=='new mexico':
         print ('Setting state to New Mexico')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.05125) + price)
         running = False
 
-    if state=='NY':
+    if state=='NY' or state=='ny' or state=='New York' or state =='new york':
         print ('Setting state to New York')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.045) + price)
         running = False
 
-    if state=='NC':
+    if state=='NC' or state=='nc' or state=='North Carolina' or state=='north carolina':
         print ('Setting state to North Carolina')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0475) + price)
         runing = False
 
-    if state=='ND':
+    if state=='ND' or state=='nd' or state=='North Dakota' or state=='north dakota':
         print ('Setting sate to North Dakota')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.05) + price)
         running = False
 
-    if state=='OH':
+    if state=='OH' or state=='oh' or state=='Ohio' or state=='ohio':
         print ('Setting state to Ohio')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0575) + price)
         running = False
 
-    if state=='OK':
+    if state=='OK' or state=='ok' or state=='Oklahoma' or state=='oklahoma':
         print ('Setting state to Oklahoma')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.045) + price)
         running = False
 
-    if state=='OR':
-        print ('The state of Oklahoma does not have sales tax')
+    if state=='OR' or state=='or' or state=='Oregon' or state=='oregon':
+        print ('The state of Oregon does not have sales tax')
         running = False
         
-    if state=='PA':
+    if state=='PA' or state=='pa' or state=='Pennsylvania' or state=='pennsylvania' or state=='Penn' or state=='penn':
         print ('Setting state to Pennsylvania')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='RI':
+    if state=='RI' or state=='ri' or state=='Rhode Island' or state=='rhode island' or state=='Rhode' or state=='rhode':
         print ('Setting state to Rhode Island')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.07) + price)
         running = False
 
-    if state=='SC':
+    if state=='SC' or state=='sc' or state=='South Carolina' or state=='south carolina':
         print ('Setting state to South Carolina')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='SD':
+    if state=='SD' or state=='sd' or state=='South Dakota' or state=='south dakota':
         print ('Setting state to South Dakota')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.045) + price)
         running = False
 
-    if state=='TN':
+    if state=='TN' or state=='tn' or state=='Tennessee' or state=='tennessee':
         print ('Setting state to Tennessee')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.07) + price)
         running = False
 
-    if state=='TX':
+    if state=='TX' or state=='tx' or state=='Texas' or state=='texas':
         print ('Setting state to Texas')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0625) + price)
         running = False
 
-    if state=='UT':
+    if state=='UT' or state=='ut' or state=='Utah' or state=='utah':
         print ('Setting state to Utah')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.0485) + price)
         running = False
 
-    if state=='VT':
+    if state=='VT' or state=='vt' or state=='Vermont' or state=='vermont':
         print ('Setting state to Vermont')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='VA':
+    if state=='VA' or state=='va' or state=='Virginia' or state=='virginia':
         print ('Setting state to Virginia')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.043) + price)
         running = False
 
-    if state=='WA':
+    if state=='WA' or state=='wa' or state=='Washington' or state=='washington':
         print ('Setting state to Washington')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.07) + price)
         running = False
 
-    if state=='WV':
+    if state=='WV' or state=='wv' or state=='West Virginia' or state=='west virginia':
         print ('Setting state to West Virginia')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.06) + price)
         running = False
 
-    if state=='WI':
+    if state=='WI' or state=='wi' or state=='Wisconsin' or state=='wisconsin':
         print ('Setting state to Wisonsin')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.05) + price)
         running = False
 
-    if state=='WY':
+    if state=='WY' or state=='wy' or state=='Wyoming' or state=='wyoming':
         print ('Settiny state to Wyoming')
         price = float(input ('Please enter the total cost of all items: '))
         print ((price * 0.04) + price)
